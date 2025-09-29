@@ -34,12 +34,12 @@ MLOps-MLflow-RandomForest/
 
 ---
 
-## 🚀 Getting Started
+
 
 ### 🔧 Prerequisites
 - Python 3.8+
 - Install dependencies:
-```bash
+
 pip install -r requirements.txt
 
 ## ▶️ Run Experiments
@@ -51,6 +51,7 @@ python src/breast_cancer_rf.py
 python src/wine_classification.py
 
 ## 📊 View MLflow UI
+
 mlflow ui
 
 ## 🔗 DagsHub Integration
