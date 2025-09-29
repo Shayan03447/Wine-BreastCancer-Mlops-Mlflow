@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/283020130408718246/4bb2cf325754483da95080872447f362/artifacts
+end_time: 1753602925821
+entry_point_name: ''
+experiment_id: '283020130408718246'
+lifecycle_stage: active
+run_id: 4bb2cf325754483da95080872447f362
+run_name: casual-fawn-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753602910463
+status: 3
+tags: []
+user_id: R.C

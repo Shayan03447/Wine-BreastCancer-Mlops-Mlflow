@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/433c8410d812409f9dc00da6e3372df3/artifacts
+end_time: 1753674332249
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: 433c8410d812409f9dc00da6e3372df3
+run_name: delicate-croc-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753674332149
+status: 3
+tags: []
+user_id: R.C

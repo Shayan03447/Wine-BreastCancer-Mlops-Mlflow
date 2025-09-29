@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/02220c8e37234865a44157680859c23d/artifacts
+end_time: 1753674331797
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: 02220c8e37234865a44157680859c23d
+run_name: gaudy-smelt-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753674331679
+status: 3
+tags: []
+user_id: R.C

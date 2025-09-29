@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/873351600964451923/95f457d5fe6446ec823fb9caf68f42fb/artifacts
+end_time: 1753672505117
+entry_point_name: ''
+experiment_id: '873351600964451923'
+lifecycle_stage: active
+run_id: 95f457d5fe6446ec823fb9caf68f42fb
+run_name: gifted-snake-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753672493412
+status: 4
+tags: []
+user_id: R.C

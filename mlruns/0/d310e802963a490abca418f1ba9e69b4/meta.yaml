@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d310e802963a490abca418f1ba9e69b4/artifacts
+end_time: 1753589049787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d310e802963a490abca418f1ba9e69b4
+run_name: flawless-crab-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753589049632
+status: 3
+tags: []
+user_id: R.C

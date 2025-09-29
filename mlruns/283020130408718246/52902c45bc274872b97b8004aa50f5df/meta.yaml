@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/283020130408718246/52902c45bc274872b97b8004aa50f5df/artifacts
+end_time: 1753602941000
+entry_point_name: ''
+experiment_id: '283020130408718246'
+lifecycle_stage: active
+run_id: 52902c45bc274872b97b8004aa50f5df
+run_name: redolent-goat-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753602931159
+status: 3
+tags: []
+user_id: R.C

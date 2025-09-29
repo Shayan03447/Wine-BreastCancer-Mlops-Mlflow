@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/0f69c6fe624b476d90e0827c1ec15251/artifacts
+end_time: 1753674332381
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: 0f69c6fe624b476d90e0827c1ec15251
+run_name: painted-wasp-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753674332266
+status: 3
+tags: []
+user_id: R.C

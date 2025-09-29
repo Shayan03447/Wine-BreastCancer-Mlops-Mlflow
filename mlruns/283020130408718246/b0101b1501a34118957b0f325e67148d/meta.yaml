@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/283020130408718246/b0101b1501a34118957b0f325e67148d/artifacts
+end_time: 1753594515452
+entry_point_name: ''
+experiment_id: '283020130408718246'
+lifecycle_stage: active
+run_id: b0101b1501a34118957b0f325e67148d
+run_name: thundering-ape-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753594514819
+status: 3
+tags: []
+user_id: R.C

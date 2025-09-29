@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/beb67c8ae8be427c9d7b634095d3915b/artifacts
+end_time: 1753672984539
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: beb67c8ae8be427c9d7b634095d3915b
+run_name: efficient-frog-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753672973630
+status: 4
+tags: []
+user_id: R.C

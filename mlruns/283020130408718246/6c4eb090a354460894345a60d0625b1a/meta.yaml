@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/283020130408718246/6c4eb090a354460894345a60d0625b1a/artifacts
+end_time: 1753595578056
+entry_point_name: ''
+experiment_id: '283020130408718246'
+lifecycle_stage: active
+run_id: 6c4eb090a354460894345a60d0625b1a
+run_name: likeable-auk-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753595568132
+status: 3
+tags: []
+user_id: R.C

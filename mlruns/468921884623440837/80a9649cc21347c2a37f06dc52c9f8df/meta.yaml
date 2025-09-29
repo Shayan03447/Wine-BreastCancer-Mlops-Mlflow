@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/80a9649cc21347c2a37f06dc52c9f8df/artifacts
+end_time: 1753674332488
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: 80a9649cc21347c2a37f06dc52c9f8df
+run_name: exultant-panda-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753674332400
+status: 3
+tags: []
+user_id: R.C

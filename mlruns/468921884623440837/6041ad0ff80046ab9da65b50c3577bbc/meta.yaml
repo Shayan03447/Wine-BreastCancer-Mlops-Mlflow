@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/6041ad0ff80046ab9da65b50c3577bbc/artifacts
+end_time: 1753674331319
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: 6041ad0ff80046ab9da65b50c3577bbc
+run_name: gregarious-crane-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753674331204
+status: 3
+tags: []
+user_id: R.C

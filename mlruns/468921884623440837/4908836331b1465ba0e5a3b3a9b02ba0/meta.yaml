@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/4908836331b1465ba0e5a3b3a9b02ba0/artifacts
+end_time: 1753672910599
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: 4908836331b1465ba0e5a3b3a9b02ba0
+run_name: mysterious-shrew-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753672895963
+status: 4
+tags: []
+user_id: R.C

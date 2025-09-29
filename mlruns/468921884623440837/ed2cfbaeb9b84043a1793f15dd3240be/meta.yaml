@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/ed2cfbaeb9b84043a1793f15dd3240be/artifacts
+end_time: 1753674331186
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: ed2cfbaeb9b84043a1793f15dd3240be
+run_name: amusing-fawn-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753674331087
+status: 3
+tags: []
+user_id: R.C

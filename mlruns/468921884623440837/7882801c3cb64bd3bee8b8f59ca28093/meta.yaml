@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOps-Series/MLOPs-MLFLOW/mlruns/468921884623440837/7882801c3cb64bd3bee8b8f59ca28093/artifacts
+end_time: 1753674331956
+entry_point_name: ''
+experiment_id: '468921884623440837'
+lifecycle_stage: active
+run_id: 7882801c3cb64bd3bee8b8f59ca28093
+run_name: mysterious-colt-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753674331820
+status: 3
+tags: []
+user_id: R.C

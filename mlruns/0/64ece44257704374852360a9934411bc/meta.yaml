@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64ece44257704374852360a9934411bc/artifacts
+end_time: 1753589436894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64ece44257704374852360a9934411bc
+run_name: rare-jay-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753589436725
+status: 3
+tags: []
+user_id: R.C
